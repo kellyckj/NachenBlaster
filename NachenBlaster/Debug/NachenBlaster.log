@@ -1,0 +1,8 @@
+﻿  main.cpp
+  GameWorld.cpp
+  GameController.cpp
+  StudentWorld.cpp
+f:\__ucla__\1 freshman\winter\cs 32\projects\#3\final\nachenblaster\nachenblaster\studentworld.cpp(97): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Actor.cpp
+  Generating Code...
+  NachenBlaster.vcxproj -> F:\__UCLA__\1 Freshman\winter\CS 32\Projects\#3\Final\NachenBlaster\Debug\NachenBlaster.exe
