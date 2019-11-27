@@ -1,4 +1,6 @@
 Kelly Cheng
+Code found here:
+	https://github.com/kellyckj/NachenBlaster
 
 NachenBlaster
 	A small video game of killing spacecrafts and collecting goodies in C++.
